@@ -1,0 +1,35 @@
+{
+  "name": "nodevember-speaker-cards",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./speaker-cards",
+    "lint": "eslint --fix ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reverentgeek/nodevember-speaker-cards.git"
+  },
+  "author": "David Neal <david@reverentgeek.com> (http://reverentgeek.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reverentgeek/nodevember-speaker-cards/issues"
+  },
+  "homepage": "https://github.com/reverentgeek/nodevember-speaker-cards#readme",
+  "dependencies": {
+    "bulma": "^0.5.3",
+    "dom-to-image": "^2.5.2",
+    "fs-jetpack": "^1.2.0",
+    "handlebars": "^4.0.10",
+    "nightmare": "^2.10.0",
+    "opn": "^5.1.0",
+    "scrape-it": "^3.3.3",
+    "winston": "^2.4.0",
+    "yargs": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-leankit": "^4.1.1"
+  }
+}

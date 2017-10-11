@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Heidi Waterhouse",
+		"avatar": "/assets/heidi_waterhouse.jpg",
+		"avatar-class": " alt-avatar"
+	},
+	{
+		"name": "Tracey Berg-Fulton",
+		"avatar": "/assets/tracey_berg-fulton.jpg"
+	},
+	{
+		"name": "Heather Downing",
+		"avatar": "/assets/heather_downing.jpg"
+	},
+	{
+		"name": "Jared M. Smith",
+		"avatar": "/assets/jared_m__smth.png"
+	},
+	{
+		"name": "Randy Cox",
+		"avatar": "/assets/randy_cox.jpg"
+	},
+	{
+		"name": "Stephanie Provence",
+		"twitter": "@steph_happens",
+		"avatar": "/assets/steph_happens.jpg"
+	},
+	{
+		"name": "Nara Kasbergen",
+		"avatar": "/assets/xiehan.png"
+	}
+]

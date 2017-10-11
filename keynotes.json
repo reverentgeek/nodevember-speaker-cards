@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Laurie Voss",
+    "talk": "Welcome to the new npm",
+    "audience": "Audience: All",
+    "avatar": "/img/speakers/laurie-voss.jpg",
+    "twitter": "@seldo"
+  },
+  {
+    "name": "Kim Crayton",
+    "talk": "What is Community Engineering?",
+    "audience": "Audience: All",
+    "avatar": "/img/speakers/kim-crayton.jpg",
+    "twitter": "@KimCrayton1"
+  },
+  {
+    "name": "Aimee Knight",
+    "talk": "It's Not Dark Magic - Pulling Back the Curtains From Your Stylesheets",
+    "audience": "Audience: All",
+    "avatar": "/img/speakers/aimee-knight.jpg",
+    "twitter": "@Aimee_Knight"
+  },
+  {
+    "name": "Ben Ilegbodu",
+    "talk": "Why choose React?",
+    "audience": "Audience: All",
+    "avatar": "/img/speakers/ben-ilegbodu.jpg",
+    "twitter": "@benmvp"
+  }
+]

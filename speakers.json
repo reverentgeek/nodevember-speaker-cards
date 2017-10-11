@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Cory House",
+    "talk": "Creating a Reusable React Component Library",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/09e16ce7b4bc21025c9940f5a167cfa9?s=500",
+    "twitter": "@housecor"
+  },
+  {
+    "name": "Lisa Huang",
+    "talk": "Instant Mobile Web: An Accelerated Mobile Pages primer",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/96c332a96737c6668906232e39cb16ef?s=500",
+    "twitter": "@lisaychuang"
+  },
+  {
+    "name": "Gabrielle Crevecoeur",
+    "talk": "Learn About Nodebots: Node.js + Robotics + IoT Workshop",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/1d1c3d0dff776fedc6a4f10cd7824314?s=500",
+    "twitter": "@nowayshecodes"
+  },
+  {
+    "name": "Shelley Vohr",
+    "talk": "Asynchrony: Under the Hood",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/cefbfda4b927bb53143c641440d881d7?s=500",
+    "twitter": "@codebytere"
+  },
+  {
+    "name": "Colin Ihrig",
+    "talk": "The State of Node Core",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/1a66496591e906c638a80a63b98cd2be?s=500",
+    "twitter": "@cjihrig"
+  },
+  {
+    "name": "Matt Hamil",
+    "talk": "React: A Romance of Many Dimensions",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/7c608350a27f810f968d75a05050673b?s=500",
+    "twitter": "@_matthamil"
+  },
+  {
+    "name": "Brian Holt",
+    "talk": "10KB or Bust: The Delicate Power of Webpack and Babel",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/3994a1ac47c4a684d7378ef06c1571cd?s=500",
+    "twitter": "@holtbt"
+  },
+  {
+    "name": "Eric Baer",
+    "talk": "GraphQL For The Rest Of Us: New things for people who work on old things",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/d3bc4688eda8302a49f312290d31c38c?s=500",
+    "twitter": "@ebaerbaerbaer"
+  },
+  {
+    "name": "Randy Cox",
+    "talk": "Unlocking the Mysteries of an Unfamiliar Codebase",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/15468/Randy-Cox.jpg",
+    "twitter": "@randykcox"
+  },
+  {
+    "name": "Heidi Waterhouse",
+    "talk": "Choose Your Own Deployment: Interactive Feature Flag Adventure",
+    "audience": "Audience: All",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/1497/KCDCportrait0279.JPG",
+    "twitter": "@wiredferret"
+  },
+  {
+    "name": "Tracey Berg-Fulton",
+    "talk": "Hit it With a Hammer or Light it on Fire: Lessons on being a newbie developer from an old car",
+    "audience": "Audience: Beginner",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/14811/IMG_7188.JPG",
+    "twitter": "@BergFulton"
+  },
+  {
+    "name": "Jayraj Jog",
+    "talk": "Fantastic Components and How to Find Them",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/6be6247b9f14fcfd16d222a0ff3d574c?s=500",
+    "twitter": "@jayjog"
+  },
+  {
+    "name": "Timothy De Block",
+    "talk": "How to embed security into your process",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/404a12c848bf9a5453a0ef579b9d29c9?s=500",
+    "twitter": "@TimothyDeBlock"
+  },
+  {
+    "name": "Hao Luo",
+    "talk": "Impress your friends - Build a Smart Photobooth!",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/28e700c0f6181a8bba8952eb1a7d2920?s=500",
+    "twitter": "@howlowck"
+  },
+  {
+    "name": "Jared M. Smith",
+    "talk": "Intro to Docker: Fixing the \"it works on my machine\" Problem",
+    "audience": "Audience: All",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/4949/blue_headshot_small.png",
+    "twitter": "@jaredthecoder"
+  },
+  {
+    "name": "Bryan Hughes",
+    "talk": "The Node.js Event Loop: Not So Single Threaded",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/82ac6178e8443fe8a02e480d07af21c3?s=500",
+    "twitter": "@nebrius"
+  },
+  {
+    "name": "Ryan Tablada",
+    "talk": "A Shiny New Way of Rendering",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/0873a576b5bd3a12d125aff99ded5b6e?s=500",
+    "twitter": "@ryantablada"
+  },
+  {
+    "name": "Stephanie Provence",
+    "talk": "Oh Node You Didn't!",
+    "audience": "Audience: Beginner",
+    "avatar": "https://secure.gravatar.com/avatar/856ce373e1de5bde65f977bd49956166?s=500",
+    "twitter": "@steph__happens"
+  },
+  {
+    "name": "Lyle Reed",
+    "talk": "Accessibility - Myths and Methods",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/16b0b62e7443fe3c6ca63c3a2f6340d1?s=500",
+    "twitter": "@lanreed"
+  },
+  {
+    "name": "Jesse R Weigel",
+    "talk": "How Live Coding Changed My Life",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/6ecc2cd56720189f1d48e4dd8160f2d9?s=500",
+    "twitter": "@JesseRWeigel"
+  },
+  {
+    "name": "Christina Holland",
+    "talk": "React + Charts, With And Without Libraries",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/5c8449333a71c6508377dbbb83830ea1?s=500",
+    "twitter": "@americanwombat"
+  },
+  {
+    "name": "Jonathan Creamer",
+    "talk": "Express yourself with Typescript and React",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/982085c143104804c4ced3b61864520f?s=500",
+    "twitter": "@jcreamer898"
+  },
+  {
+    "name": "Alex Robson",
+    "talk": "Kubernetes at npm",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/cabac203bf3b11b2f5d30bde7e6835c3?s=500",
+    "twitter": "@a_robson"
+  },
+  {
+    "name": "Josh Cypher",
+    "talk": "Continuous Testing With React, Storybook, and WebdriverIO",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/232a628b326949e84d0916155e15ccb2?s=500",
+    "twitter": "@joshuacypher"
+  },
+  {
+    "name": "Beat Zenerino",
+    "talk": "Driven! Events, State Machines and Node",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/b9ce3be1bb652e74a77e00ddecd0d731?s=500",
+    "twitter": "@zenibeat"
+  },
+  {
+    "name": "Eve Porcello",
+    "talk": "APIs, But Better: An Intro to GraphQL and Apollo",
+    "audience": "Audience: Beginner",
+    "avatar": "https://secure.gravatar.com/avatar/6d77554e2d881d629862f49363bebd09?s=500",
+    "twitter": "@eveporcello"
+  },
+  {
+    "name": "Mike Lazer-Walker",
+    "talk": "Let’s JavaScript Like It’s 1927",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/e89cac2469786f0259d685b74066fe0a?s=500",
+    "twitter": "@lazerwalker"
+  },
+  {
+    "name": "Jonathan Kemp",
+    "talk": "Get More Done with Vue.js",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/de40ab94291f001c3a968f0260fd0669?s=500",
+    "twitter": "@jonkemp"
+  },
+  {
+    "name": "Alex Castillo",
+    "talk": "Brain-Computer Interfaces in Node",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/42f7ad8e98a2fcaa27e0e9efdbab0221?s=500",
+    "twitter": "@castillo__io"
+  },
+  {
+    "name": "Jonathan Mills",
+    "talk": "A Skeptics guide to functional style javascript",
+    "audience": "Audience: All",
+    "avatar": "https://secure.gravatar.com/avatar/c61c005551e69d15054f26b9bed32b81?s=500",
+    "twitter": "@jonathanfmills"
+  },
+  {
+    "name": "Nara Kasbergen",
+    "talk": "Empathy As A Service: Supporting Mental Health in the Tech Workplace",
+    "audience": "Audience: Beginner",
+    "avatar": "https://secure.gravatar.com/avatar/b36609b33707f04623f84f7381d5e94e?s=500",
+    "twitter": "@xiehan"
+  },
+  {
+    "name": "Delaine Wendling",
+    "talk": "Demystifying D3 With the Help of Shakespeare",
+    "audience": "Audience: Beginner",
+    "avatar": "https://secure.gravatar.com/avatar/8609e23c2cc15e30321dae5752139e26?s=500",
+    "twitter": "@delainewendling"
+  },
+  {
+    "name": "Heather Downing",
+    "talk": "Speak To Me: Voice App Conversation Practices",
+    "audience": "Audience: Beginner",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/7635/avatarphoto.jpg",
+    "twitter": "@quorralyne"
+  }
+]

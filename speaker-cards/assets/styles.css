@@ -1,0 +1,71 @@
+#speaker-card {
+	background-image: url("./nodevember-speaker-bkg.png");
+	background-size: 630px;
+	width: 630px;
+	height: 630px;
+	color: #fff;
+	font-family: "Aller Light";
+	position: relative;
+}
+
+#speaker-card .title {
+	color: #f4cc61;
+	font-family: "Gotham HTF";
+	position: absolute;
+	top: 215px;
+	width: 630px;
+	font-size: 2.5em;
+}
+
+#speaker-card .subtitle {
+	color: #ffffff;
+	position: absolute;
+	width: 630px;
+	top: 350px;
+	font-size: 1.75em;
+	font-weight: bold;
+	padding: 0 67px;
+}
+
+.avatar-wrapper {
+	width: 130px;
+	height: 130px;
+	border-radius: 75px;
+	position: absolute;
+	top: 465px;
+	left: 60px;
+	overflow: hidden;
+}
+
+.avatar {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 130px;
+	height: auto;
+	max-width: none;
+	margin-top: -65px; /* Half the height */
+	margin-left: -65px; /* Half the width */
+}
+
+.alt-avatar {
+	left: 17%;
+	height: 130px;
+	width: auto;
+	max-width: none;	
+}
+
+.audience {
+	position: absolute;
+	right: 67px;
+	top: 490px;
+	font-size: 1.75em;
+	font-weight: bold;
+}
+.twitter {
+	position: absolute;
+	right: 67px;
+	top: 533px;
+	font-size: 1.75em;
+	font-weight: bold;
+}
