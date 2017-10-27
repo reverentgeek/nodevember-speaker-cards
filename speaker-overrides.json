@@ -28,5 +28,10 @@
 	{
 		"name": "Nara Kasbergen",
 		"avatar": "/assets/xiehan.png"
-	}
+	},
+	{
+		"name": "Loretta Stokes",
+		"avatar": "/assets/loretta_stokes.jpg",
+		"avatar-class": " alt-avatar"
+	}	
 ]

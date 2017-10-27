@@ -19,6 +19,8 @@
   "homepage": "https://github.com/reverentgeek/nodevember-speaker-cards#readme",
   "dependencies": {
     "bulma": "^0.5.3",
+    "csv-string": "^2.3.2",
+    "csvtojson": "^1.1.9",
     "dom-to-image": "^2.5.2",
     "fs-jetpack": "^1.2.0",
     "handlebars": "^4.0.10",

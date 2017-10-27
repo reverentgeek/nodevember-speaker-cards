@@ -4,8 +4,21 @@ const opn = require( "opn" );
 const speakerScraper = require( "./speakerScraper" );
 const log = require( "./log" );
 
+const nameSort = ( speaker1, speaker2 ) => {
+	if ( speaker1.name < speaker2.name ) {
+		return -1;
+	}
+
+	if ( speaker1.name > speaker2.name ) {
+		return 1;
+	}
+	return 0;
+};
+
 const buildSpeakerNameList = async () => {
 	const speakers = await speakerScraper.scrapeSpeakerList( "http://nodevember.org" );
+	speakers.keynotes.sort( nameSort );
+	speakers.sessions.sort( nameSort );
 	jetpack.write( "./speaker-names.json", speakers );
 };
 
