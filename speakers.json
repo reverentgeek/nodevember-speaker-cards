@@ -96,6 +96,14 @@
     "keynote": false
   },
   {
+    "name": "Elijah Manor",
+    "talk": "Using npm scripts as your build tool",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/fc7253276960c6f0718688e330bca47f?s=500",
+    "twitter": "@elijahmanor",
+    "keynote": false
+  },
+  {
     "name": "Eric Baer",
     "talk": "GraphQL For The Rest Of Us: New things for people who work on old things",
     "audience": "Audience: All",
@@ -125,14 +133,6 @@
     "audience": "Audience: All",
     "avatar": "https://secure.gravatar.com/avatar/28e700c0f6181a8bba8952eb1a7d2920?s=500",
     "twitter": "@howlowck",
-    "keynote": false
-  },
-  {
-    "name": "Heather Downing",
-    "talk": "Speak To Me: Voice App Conversation Practices",
-    "audience": "Audience: Beginner",
-    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/7635/avatarphoto.jpg",
-    "twitter": "@quorralyne",
     "keynote": false
   },
   {
@@ -181,14 +181,6 @@
     "audience": "Audience: Intermediate",
     "avatar": "https://secure.gravatar.com/avatar/de40ab94291f001c3a968f0260fd0669?s=500",
     "twitter": "@jonkemp",
-    "keynote": false
-  },
-  {
-    "name": "Jonathan Mills",
-    "talk": "A Skeptics guide to functional style javascript",
-    "audience": "Audience: All",
-    "avatar": "https://secure.gravatar.com/avatar/c61c005551e69d15054f26b9bed32b81?s=500",
-    "twitter": "@jonathanfmills",
     "keynote": false
   },
   {
@@ -280,14 +272,6 @@
     "keynote": false
   },
   {
-    "name": "Sergio Cruz",
-    "talk": "Upgrading an AngularJS Directive to Angular Component",
-    "audience": "Audience: All",
-    "avatar": "https://secure.gravatar.com/avatar/05214725f30a427bd6c45632cc426ae5?s=500",
-    "twitter": "@hashtagserg",
-    "keynote": false
-  },
-  {
     "name": "Shelley Vohr",
     "talk": "Asynchrony: Under the Hood",
     "audience": "Audience: Intermediate",
@@ -317,6 +301,14 @@
     "audience": "Audience: Beginner",
     "avatar": "https://secure.gravatar.com/avatar/c5ec0e5dac4052c9ada5b0e8f50a33ff?s=500",
     "twitter": "@BergFulton",
+    "keynote": false
+  },
+  {
+    "name": "Tyson Cadenhead",
+    "talk": "Functional Programming In React",
+    "audience": "Audience: Intermediate",
+    "avatar": "https://secure.gravatar.com/avatar/283773207d6e2c2b9f2a86f7088a7328?s=500",
+    "twitter": "@tysoncadenhead",
     "keynote": false
   }
 ]
